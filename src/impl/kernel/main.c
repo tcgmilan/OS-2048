@@ -16,6 +16,7 @@ void print_title(){
     print_clear();
     print_set_color(PRINT_COLOR_MAGENTA, PRINT_COLOR_BLACK);
     print_str("2048-OS - @tcgmilan");
+<<<<<<< Updated upstream
 }
 
 void kernel_main(){
@@ -23,3 +24,7 @@ void kernel_main(){
     ct();
 }
 
+=======
+    game();
+}
+>>>>>>> Stashed changes
