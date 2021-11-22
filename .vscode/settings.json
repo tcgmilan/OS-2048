@@ -1,6 +1,8 @@
 {
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
-        "print.h": "c"
+        "print.h": "c",
+        "string.h": "c",
+        "time.h": "c"
     }
 }
