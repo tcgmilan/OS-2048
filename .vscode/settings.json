@@ -3,8 +3,14 @@
     "files.associations": {
         "print.h": "c",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "string.h": "c",
         "time.h": "c"
+=======
+        "termios.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+>>>>>>> Stashed changes
 =======
         "termios.h": "c",
         "stdio.h": "c",
